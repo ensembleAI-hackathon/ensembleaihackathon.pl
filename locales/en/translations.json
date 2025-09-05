@@ -1,0 +1,58 @@
+{
+  "aboutProject": "About the project",
+  "timeline": "Timeline",
+  "throwback": "Throwback",
+  "partners": "Partners",
+  "admins": "Organizers",
+  "regulations": "Regulations",
+  "previousEditions": "Previous editions",
+  "currentEdition": "Current edition",
+  "takeMeBack": "Back",
+
+  "discord": "Discord",
+  "facebook": "Facebook",
+  "linkedin": "LinkedIn",
+  "email": "E-mail",
+  "joinDiscord": "Join Discord server",
+  "followTheEventOnFacebook": "Follow us on Facebook",
+  "followUsOnLinkedIn": "Follow us on LinkedIn",
+  "sendUsAnEmail": "Send us an email",
+
+  "signUp": "Sign up",
+
+  "when": "When?",
+  "where": "Where?",
+  "team": "Team?",
+  "exactHackathonDate": "March 15-16, 2025",
+  "csFaculty": "Faculty of Computer Science",
+  "agh": "AGH University",
+  "inKrakow": "in Krakow",
+  "threeToFivePeople": "3-5 people",
+  "aboutHackathonText": "<strong>EnsembleAI Hackathon</strong> is a one-of-a-kind event where students scientific groups from all over Poland join forces to create something unique for you.<br />Are you an experienced enthusiast and <strong>Machine Learning</strong> is your bread and butter? Or maybe you are just starting your adventure with <strong>artificial intelligence</strong>? Regardless of the answer, participating in the hackathon will be an opportunity for <strong>great fun</strong> and <strong>skill development</strong>. Attractive prizes await the winners!<br />In 2025, the <strong>second edition</strong> of the hackathon will take place. This time we invite you to <strong>Krakow</strong>!",
+  "aboutHackathonText24": "<strong>EnsembleAI Hackathon</strong> is a one-of-a-kind event where <strong>scientific groups from all over Poland</strong> join forces to create for you something <strong>unique</strong>.<br />Are you an experienced enthusiast and machine learning is your daily bread? Or maybe you are just starting your adventure with <strong>artificial intelligence</strong>? Regardless of the answer, participating in the hackathon will be an opportunity for <strong>great fun</strong> and <strong>skill development</strong>. Attractive prizes await the winners!",
+
+  "reportFromTheEvent" : "Throwback",
+  "report2024": "The first edition of the EnsembleAI Hackathon was the starting point of collaboration of Poland's largest students' AI research groups, creating a place for young talent to thrive.<br />During the first edition, 120 Bachelor's, Master's and PhD students had 24 hours to solve three tasks related to stealing machine learning models. In the meantime, they made valuable connections with experts and event partners.<br />All of this took place in the Warsaw University of Technology!",
+  "gallery2024": "Photos 2024",
+  "gallery2025": "Photos 2025",
+
+  "timelineSoon": "Detailed timeline coming soon...",
+  "registrationStarts": "<strong>January 13</strong> - Registration start",
+  "registrationStartsText": "From this moment on, you can submit your teams' applications via the registration form. Don't wait, the number of places is limited!",
+  "introductionToTasks": "<strong>TBA</strong> - Tutorial",
+  "introductionToTasksText": "Soon...",
+  "deadlineForApplications": "<strong>February 16</strong> - Deadline for applications",
+  "deadlineForApplicationsText": "Last day for applications. After this date, you will need to confirm your presence at the event, and if there are any places left, teams from the reserve list will enter the competition!",
+  "eventOpening": "<strong>March 15</strong> - Opening of the event",
+  "eventOpeningText": "On Saturday morning, the grand opening of the event will take place, and shortly after that, you will start coding. Lots of pizza and other surprises await you during the event!",
+  "selectionOfTheWinningTeams": "<strong>March 16</strong> - Selection of the winning teams",
+  "selectionOfTheWinningTeamsText": "It will all be over on Sunday afternoon - the winners will be rewarded, and the rest will be able to try their hand again in the next edition of the event!",
+
+  "mainPartner": "Main Partners",
+  "meritPartners": "Knowledge Partners",
+  "strategicPartner": "Strategic Partners",
+  "mediaPartners": "Media Partners",
+  "socialPartners": "Social Partners",
+
+  "noRegulationsModalText": "The 2025 edition rules coming soon"
+}
