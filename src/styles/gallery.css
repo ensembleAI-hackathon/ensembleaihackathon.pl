@@ -1,0 +1,123 @@
+.gallery {
+  font-size: 20px;
+  display: flex;
+  flex-direction: column;
+  margin: 7vh 0;
+  row-gap: 5vh;
+  padding-top: 80px;
+  align-items: center;
+}
+
+.gallery h3 {
+  padding-bottom: 20px;
+  color: white;
+  font-size: 70px;
+  font-weight: normal;
+}
+
+.gallery-container {
+  width: 70%;
+  margin: 0 auto;
+  padding: 20px;
+  box-sizing: border-box;
+}
+
+.pagination-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 20px 0;
+}
+
+.pagination-button {
+  background-color: rgb(27, 27, 26);
+  border: 1px solid rgb(28, 28, 28);
+  padding: 8px 12px;
+  margin: 0 2px;
+  cursor: pointer;
+  border-radius: 4px;
+  transition: background-color 0.3s;
+}
+
+.pagination-button:disabled {
+  background-color: rgb(27, 27, 26);
+  cursor: not-allowed;
+}
+
+.pagination-button:hover:not(:disabled) {
+  background-color: rgb(232, 46, 137);
+}
+
+.page-number {
+  background-color: rgb(27, 27, 26);
+  border: 1px solid rgb(28, 28, 28);
+  padding: 8px 12px;
+  margin: 0 3px;
+  cursor: pointer;
+  border-radius: 4px;
+  transition: background-color 0.3s, color 0.3s;
+}
+
+.page-number.active {
+  background-color: rgb(232, 46, 137);
+  color: white;
+  border-color: rgb(232, 46, 137);
+}
+
+.page-number:hover {
+  background-color: rgb(232, 46, 137);
+}
+
+.ellipsis {
+  padding: 8px 12px;
+  margin: 0 3px;
+}
+.top {
+  margin-bottom: 1rem;
+}
+.bottom {
+  margin-top: 1rem;
+}
+
+.loading {
+  text-align: center;
+  padding: 20px;
+  font-style: italic;
+  color: gray;
+}
+
+@media screen and (max-width: 1200px) {
+  .gallery h3 {
+    font-size: 50px;
+  }
+  .gallery-container {
+    width: 80%;
+  }
+}
+
+@media screen and (max-width: 850px) {
+  .gallery h3 {
+    font-size: 40px;
+  }
+  .gallery-container {
+    width: 80%;
+  }
+}
+
+@media screen and (max-width: 650px) {
+  .gallery h3 {
+    font-size: 30px;
+  }
+  .gallery-container {
+    width: 90%;
+  }
+}
+
+@media screen and (max-width: 550px) {
+  .gallery h3 {
+    font-size: 20px;
+  }
+  .gallery-container {
+    width: 90%;
+  }
+}

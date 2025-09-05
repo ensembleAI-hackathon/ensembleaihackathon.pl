@@ -1,0 +1,72 @@
+footer {
+  margin-top: 30px;
+}
+
+#footer-content {
+  padding: 3vh;
+  width: 100%;
+  background-color: rgb(27, 27, 26);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.rights_reserved {
+  margin-top: 10px;
+  margin-bottom: -10px;
+}
+
+.social-icons {
+  width: 75%;
+  display: flex;
+  justify-content: space-between;
+}
+
+.social-icons a {
+  flex-grow: 1; /* Distribute the remaining space equally */
+  margin: 10px;
+  font-size: 18px;
+  text-decoration: none;
+  color: #ffffff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.social-icons i {
+  margin-right: 10px;
+  font-size: 24px;
+}
+
+.social-icons-shorter {
+  display: none;
+}
+
+/* .social-icons-longer{
+    display:flex;
+ } */
+
+/* Hide text on mobile */
+@media screen and (max-width: 700px) {
+  .social-icons a {
+    flex-grow: 0; /* Disable flex-grow on mobile */
+    width: 100%;
+    justify-content: center; /* Center the icon */
+    text-align: center; /* Center the text */
+    font-size: 0;
+  }
+
+  .social-icons i {
+    margin-right: 0; /* Remove margin for icons on mobile */
+  }
+}
+
+/* Hide text on mobile */
+@media screen and (min-width: 701px) and (max-width: 1830px) {
+  .social-icons-shorter {
+    display: flex;
+  }
+  .social-icons-longer {
+    display: none;
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "aboutProject": "O projekcie",
+  "timeline": "Timeline",
+  "throwback": "Relacja",
+  "partners": "Partnerzy",
+  "admins": "Organizatorzy",
+  "regulations": "Regulamin",
+  "previousEditions": "Poprzednie edycje",
+  "currentEdition": "Obecna edycja",
+  "takeMeBack": "Wróć do poprzedniej strony",
+
+  "discord": "Discord",
+  "facebook": "Facebook",
+  "linkedin": "LinkedIn",
+  "email": "E-mail",
+  "joinDiscord": "Dołącz na serwer Discord",
+  "followTheEventOnFacebook": "Obserwuj naszego Facebooka",
+  "followUsOnLinkedIn": "Obserwuj naszego LinkedIna",
+  "sendUsAnEmail": "Napisz do nas maila",
+
+  "signUp": "Zapisz się",
+
+  "when": "Kiedy?",
+  "where": "Gdzie?",
+  "team": "Zespół?",
+  "exactHackathonDate": "15-16 marca 2025",
+  "csFaculty": "Wydział Informatyki",
+  "agh": "AGH",
+  "inKrakow": "w Krakowie",
+  "threeToFivePeople": "3-5 osób",
+  "aboutHackathonText": "<strong>EnsembleAI Hackathon</strong> to jedyne w swoim rodzaju wydarzenie, gdzie koła naukowe z całej Polski łączą swe siły, aby stworzyć dla Was coś wyjątkowego.<br />Jesteś doświadczonym pasjonatem i <strong>uczenie maszynowe</strong> to dla Ciebie chleb powszedni? A może dopiero rozpoczynasz swoją przygodę ze <strong>sztuczną inteligencją</strong>? Niezależnie od odpowiedzi, udział w hackathonie będzie dla Was okazją do <strong>dobrej zabawy</strong> i <strong>rozwoju umiejętności</strong>. Na zwycięzców czekają <strong>atrakcyjne nagrody!</strong><br />W 2025 odbędzie się <strong>druga edycja</strong> hackathonu. Tym razem zapraszamy Was do <strong>Krakowa</strong>!",
+  "aboutHackathonText24": "<strong>EnsembleAI Hackathon</strong> to jedyne w swoim rodzaju wydarzenie, gdzie <strong>koła naukowe z całej Polski</strong> łączą swe siły, aby stworzyć dla Was coś <strong>wyjątkowego</strong>.<br />Jesteś doświadczonym pasjonatem i uczenie maszynowe to dla Ciebie chleb powszedni? A może dopiero rozpoczynasz swoją przygodę ze <strong>sztuczną inteligencją</strong>? Niezależnie od odpowiedzi, udział w hackathonie będzie dla Was okazją do <strong>dobrej zabawy</strong> i rozwinięcia swoich <strong>umiejętności</strong>. Na zwycięzców czekają <strong>atrakcyjne nagrody!</strong>",
+
+  "reportFromTheEvent" : "Tak było",
+  "report2024": "Pierwsza edycja EnsembleAI Hackathon była punktem wyjścia do współpracy największych studenckich kół naukowych zajmujących się AI w Polsce, tworząc miejsce, w którym młode talenty mogą się rozwijać.<br />Podczas pierwszej edycji 120 studentów studiów licencjackich, inżynierskich, magisterskich i doktoranckich miało 24 godziny na rozwiązanie trzech zadań związanych z kradzieżą modeli uczenia maszynowego. W międzyczasie nawiązali cenne kontakty z ekspertami i partnerami wydarzenia.<br />Wszystko to miało miejsce na Politechnice Warszawskiej!",
+  "gallery2024": "Zdjęcia 2024",
+  "gallery2025": "Zdjęcia 2025",
+
+  "timelineSoon": "Szczegółowy timeline wkrótce...",
+  "registrationStarts": "<strong>13 stycznia</strong> - Start zapisów",
+  "registrationStartsText": "Od tego momentu możecie zgłaszać kandydatury swoich zespołów poprzez formularz zgłoszeniowy. Nie zwlekajcie, ponieważ liczba miejsc jest ograniczona!",
+  "introductionToTasks": "<strong>TBA</strong> - Tutorial",
+  "introductionToTasksText": "Wkrótce...",
+  "deadlineForApplications": "<strong>16 lutego</strong> - Ostateczny termin zgłoszeń",
+  "deadlineForApplicationsText": "Ostatni dzień przyjmowania zgłoszeń. Po tym dniu będziecie musieli potwierdzić swoją obecność na wydarzeniu, a w przypadku zwolnienia miejsc, do konkursu wejdą zespoły z listy rezerwowej!",
+  "eventOpening": "<strong>15 marca</strong> - Otwarcie wydarzenia",
+  "eventOpeningText": "W sobotę rano nastąpi uroczyste otwarcie imprezy, a chwilę po nim rozpoczniecie kodowanie. W trakcie czekają na Was dużo pizzy i inne niespodzianki!",
+  "selectionOfTheWinningTeams": "<strong>16 marca</strong> - Wyłonienie zwycięskich drużyn",
+  "selectionOfTheWinningTeamsText": "W niedzielne popołudnie będzie już po wszystkim - zwycięzcy zostaną nagrodzeni, a pozostali będą mogli spróbować swoich sił ponownie w kolejnej edycji wydarzenia!", 
+
+  "mainPartner": "Partnerzy główni",
+  "meritPartners": "Partnerzy merytoryczni",
+  "strategicPartner": "Partnerzy strategiczni",
+  "mediaPartners": "Partnerzy medialni",
+  "socialPartners": "Partnerzy społecznościowi",
+
+  "noRegulationsModalText": "Regulamin edycji 2025 już wkrótce"
+}
