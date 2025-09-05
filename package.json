@@ -1,9 +1,24 @@
 {
-  "name": "react-app",
-  "private": true,
-  "version": "0.0.0",
+  "author": {
+    "name": "Jakub Worek",
+    "email": "worekkuba@gmail.com"
+  },
+  "bugs": {
+    "url": "https://github.com/ensembleAI-hackathon/ensembleaihackathon.pl/issues",
+    "email": "worekkuba@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ensembleAI-hackathon/ensembleaihackathon.pl.git"
+  },
+  "homepage": "https://ensembleAI-hackathon.github.io/ensembleaihackathon.pl",
+  "name": "ensembleaihackathon.pl",
+  "private": false,
+  "version": "1.0.0",
   "type": "module",
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint .",
@@ -33,6 +48,7 @@
     "eslint-plugin-react": "^7.37.1",
     "eslint-plugin-react-hooks": "^5.0.0",
     "eslint-plugin-react-refresh": "^0.4.13",
+    "gh-pages": "^6.3.0",
     "globals": "^15.11.0",
     "vite": "^5.4.9"
   }
