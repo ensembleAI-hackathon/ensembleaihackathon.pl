@@ -11,16 +11,16 @@
     "type": "git",
     "url": "https://github.com/ensembleAI-hackathon/ensembleaihackathon.pl.git"
   },
-  "homepage": "https://ensembleAI-hackathon.github.io/ensembleaihackathon.pl",
+  "homepage": "https://ensembleAI-hackathon.github.io/ensembleaihackathon.pl/",
   "name": "ensembleaihackathon.pl",
   "private": false,
   "version": "1.0.0",
   "type": "module",
   "scripts": {
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
-    "dev": "vite",
-    "build": "vite build",
+    "predeploy": "npm run build -- --mode production",
+    "deploy": "gh-pages -d dist",
+    "dev": "vite --mode development",
+    "build": "vite build --mode production",
     "lint": "eslint .",
     "preview": "vite preview"
   },
