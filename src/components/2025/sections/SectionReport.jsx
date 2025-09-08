@@ -11,6 +11,9 @@ const SectionReport = () => {
       </h3>
       <div className="report">
         <Trans i18nKey="report2025" />
+        <Link to="/2025/gallery">
+          <button className="gallery-button">{t("gallery2025")}</button>
+        </Link>
         <div className="video-container">
           <iframe
             src="https://www.youtube.com/embed/KuHh_BRdWwo?si=z1qAnRrurgJEmyl7"
@@ -31,9 +34,6 @@ const SectionReport = () => {
             allowFullScreen
           ></iframe>
         </div>
-        <Link to="/2025/gallery">
-          <button className="gallery-button">{t("gallery2025")}</button>
-        </Link>
       </div>
     </div>
   );
