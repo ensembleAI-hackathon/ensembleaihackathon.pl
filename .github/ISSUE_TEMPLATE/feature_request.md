@@ -1,9 +1,9 @@
+---
 name: ✨ Nowa funkcja
 about: Zaproponuj nową funkcjonalność
 title: "[FEATURE] "
 labels: enhancement
-assignees: ''
-
+assignees: ""
 ---
 
 ## 💡 Opis pomysłu

@@ -1,9 +1,9 @@
+---
 name: 🐞 Zgłoszenie błędu
 about: Raportuj błąd w aplikacji
 title: "[BUG] "
 labels: bug
-assignees: ''
-
+assignees: ""
 ---
 
 ## 🔎 Opis błędu
