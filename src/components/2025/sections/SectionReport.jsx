@@ -1,4 +1,4 @@
-import { useTranslation } from "react-i18next";
+import { Trans, useTranslation } from "react-i18next";
 import { Link } from "react-router-dom";
 
 const SectionReport = () => {
@@ -10,6 +10,7 @@ const SectionReport = () => {
         {t("reportFromTheEvent")} <strong>_</strong>
       </h3>
       <div className="report">
+        <Trans i18nKey="report2025" />
         <div className="video-container">
           <iframe
             src="https://www.youtube.com/embed/KuHh_BRdWwo?si=z1qAnRrurgJEmyl7"
