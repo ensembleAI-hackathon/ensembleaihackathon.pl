@@ -328,7 +328,7 @@ const SectionAdmins = () => {
           <img src="images/logos/MLinPL-logo-podstawowe-kontra.png" alt="" />
         </a>
       </div>
-      <div className="container">
+      {/* <div className="container">
         <Slider {...settings}>
           {carouselData.map((item, index) => (
             <CarouselItem
@@ -341,7 +341,7 @@ const SectionAdmins = () => {
             />
           ))}
         </Slider>
-      </div>
+      </div> */}
     </div>
   );
 };
