@@ -36,14 +36,14 @@ const SectionAbout = () => {
     { question: `${t("when")}`, answers: [`${t("exactHackathonDate")}`] },
     {
       question: `${t("where")}`,
-      answers: [`${t("csFaculty")},`, `${t("agh")}`, `${t("inKrakow")}`],
+      answers: [`${t("inWarsaw")}`],
     },
     { question: `${t("team")}`, answers: [`${t("threeToFivePeople")}`] },
   ];
 
   return (
     <div id="about">
-      <Trans i18nKey="aboutHackathonText" />
+      <Trans i18nKey="aboutHackathonText26" />
       <div id="info">
         {infoData.map((item, index) => (
           <InfoCard
