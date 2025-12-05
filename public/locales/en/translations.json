@@ -23,17 +23,19 @@
   "when": "When?",
   "where": "Where?",
   "team": "Team?",
-  "exactHackathonDate": "March 15-16, 2025",
+  "exactHackathonDate": "March, 2026",
+  "inWarsaw": "In Warsaw",
   "csFaculty": "Faculty of Computer Science",
   "agh": "AGH University",
   "inKrakow": "in Krakow",
   "threeToFivePeople": "3-5 people",
-  "aboutHackathonText": "<strong>EnsembleAI Hackathon</strong> is a one-of-a-kind event where students scientific groups from all over Poland join forces to create something unique for you.<br />Are you an experienced enthusiast and <strong>Machine Learning</strong> is your bread and butter? Or maybe you are just starting your adventure with <strong>artificial intelligence</strong>? Regardless of the answer, participating in the hackathon will be an opportunity for <strong>great fun</strong> and <strong>skill development</strong>. Attractive prizes await the winners!<br />In 2025, the <strong>second edition</strong> of the hackathon will take place. This time we invite you to <strong>Krakow</strong>!",
+  "aboutHackathonText26": "<strong>EnsembleAI Hackathon</strong> is a one-of-a-kind event where students scientific groups from all over Poland join forces to create something unique for you.<br />Are you an experienced enthusiast and <strong>Machine Learning</strong> is your bread and butter? Or maybe you are just starting your adventure with <strong>artificial intelligence</strong>? Regardless of the answer, participating in the hackathon will be an opportunity for <strong>great fun</strong> and <strong>skill development</strong>. Attractive prizes await the winners! In 2026, the <strong>third edition</strong> of the hackathon will take place. This time we invite you to <strong>Warsaw</strong>!",
+  "aboutHackathonText25": "<strong>EnsembleAI Hackathon</strong> is a one-of-a-kind event where students scientific groups from all over Poland join forces to create something unique for you.<br />Are you an experienced enthusiast and <strong>Machine Learning</strong> is your bread and butter? Or maybe you are just starting your adventure with <strong>artificial intelligence</strong>? Regardless of the answer, participating in the hackathon will be an opportunity for <strong>great fun</strong> and <strong>skill development</strong>. Attractive prizes await the winners!<br />In 2025, the <strong>second edition</strong> of the hackathon will take place. This time we invite you to <strong>Krakow</strong>!",
   "aboutHackathonText24": "<strong>EnsembleAI Hackathon</strong> is a one-of-a-kind event where <strong>scientific groups from all over Poland</strong> join forces to create for you something <strong>unique</strong>.<br />Are you an experienced enthusiast and machine learning is your daily bread? Or maybe you are just starting your adventure with <strong>artificial intelligence</strong>? Regardless of the answer, participating in the hackathon will be an opportunity for <strong>great fun</strong> and <strong>skill development</strong>. Attractive prizes await the winners!",
 
   "reportFromTheEvent": "Throwback",
   "report2024": "The first edition of the EnsembleAI Hackathon was the starting point of collaboration of Poland's largest students' AI research groups, creating a place for young talent to thrive.<br />During the first edition, 120 Bachelor's, Master's and PhD students had 24 hours to solve three tasks related to stealing machine learning models. In the meantime, they made valuable connections with experts and event partners.<br />All of this took place in the Warsaw University of Technology!",
-  "report2025": "The second edition of the EnsembleAI Hackathon was the product of collaboration of Poland's largest students' AI research groups, creating a place for young talent to thrive.<br />During the second edition, almost 200 Bachelor's, Master's and PhD students had 24 hours to solve three tasks related to stealing machine learning models. In the meantime, they made valuable connections with experts and event partners.<br />All of this took place in the AGH University of Krakow!",
+  "report2025": "The second edition of the EnsembleAI Hackathon achieved nearly double the attendance of the first one, bringing together around 200 participants. Once again, student research groups from across Poland focused on artificial intelligence joined forces to organize this unique event. Participants on-site tackled challenges in two categories: CISPA and the OctoSpace Challenge. There was also plenty of space for networking and engaging conversations with AI experts. This time, the hackathon was hosted by the AGH University of Science and Technology in Kraków.",
   "gallery2024": "Photos 2024",
   "gallery2025": "Photos 2025",
 
@@ -55,5 +57,5 @@
   "mediaPartners": "Media Partners",
   "socialPartners": "Social Partners",
 
-  "noRegulationsModalText": "The 2025 edition rules coming soon"
+  "noRegulationsModalText": "The 2026 edition rules coming soon"
 }

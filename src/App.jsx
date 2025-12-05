@@ -11,6 +11,7 @@ import "./styles/languageSwitcher.css";
 import "./styles/previousEditionsPicker.css";
 
 // components
+import MainContent2026 from "./components/2026/MainContent";
 import MainContent2025 from "./components/2025/MainContent";
 import Gallery2025 from "./components/2025/Gallery";
 import MainContent2024 from "./components/2024/MainContent";
@@ -53,6 +54,7 @@ const App = () => {
       <NavBar />
       <Routes>
         <Route path="/" element={<Redirect />} />
+        <Route path="/2026" element={<MainContent2026 />} />
         <Route path="/2025" element={<MainContent2025 />} />
         <Route path="/2025/gallery" element={<Gallery2025 />} />
         <Route path="/2024" element={<MainContent2024 />} />
