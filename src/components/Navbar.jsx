@@ -14,7 +14,6 @@ const NavBar = () => {
 
   const { t } = useTranslation();
 
-  // eslint-disable-next-line no-unused-vars
   const openModal = () => {
     setIsModalOpen(true);
   };
@@ -130,9 +129,9 @@ const NavBar = () => {
                     </Link>
                   </li>
                 ))}
-                <li className="mobile-nav-item">
+                {/* <li className="mobile-nav-item">
                   <a href="documents/regulamin.pdf">{t("regulations")}</a>
-                </li>
+                </li> */}
                 <PreviousEditionsPicker onClick={() => setNav(!nav)} />
               </>
             ) : (
