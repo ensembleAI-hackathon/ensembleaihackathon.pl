@@ -23,17 +23,19 @@
   "when": "Kiedy?",
   "where": "Gdzie?",
   "team": "Zespół?",
-  "exactHackathonDate": "15-16 marca 2025",
+  "exactHackathonDate": "Marzec 2026",
+  "inWarsaw": "W Warszawie",
   "csFaculty": "Wydział Informatyki",
   "agh": "AGH",
   "inKrakow": "w Krakowie",
   "threeToFivePeople": "3-5 osób",
-  "aboutHackathonText": "<strong>EnsembleAI Hackathon</strong> to jedyne w swoim rodzaju wydarzenie, gdzie koła naukowe z całej Polski łączą swe siły, aby stworzyć dla Was coś wyjątkowego.<br />Jesteś doświadczonym pasjonatem i <strong>uczenie maszynowe</strong> to dla Ciebie chleb powszedni? A może dopiero rozpoczynasz swoją przygodę ze <strong>sztuczną inteligencją</strong>? Niezależnie od odpowiedzi, udział w hackathonie będzie dla Was okazją do <strong>dobrej zabawy</strong> i <strong>rozwoju umiejętności</strong>. Na zwycięzców czekają <strong>atrakcyjne nagrody!</strong><br />W 2025 odbędzie się <strong>druga edycja</strong> hackathonu. Tym razem zapraszamy Was do <strong>Krakowa</strong>!",
+  "aboutHackathonText26": "<strong>EnsembleAI Hackathon</strong> to jedyne w swoim rodzaju wydarzenie, gdzie koła naukowe z całej Polski łączą swe siły, aby stworzyć dla Was coś wyjątkowego.<br />Jesteś doświadczonym pasjonatem i <strong>uczenie maszynowe</strong> to dla Ciebie chleb powszedni? A może dopiero rozpoczynasz swoją przygodę ze <strong>sztuczną inteligencją</strong>? Niezależnie od odpowiedzi, udział w hackathonie będzie dla Was okazją do <strong>dobrej zabawy</strong> i <strong>rozwoju umiejętności</strong>. Na zwycięzców czekają <strong>atrakcyjne nagrody!</strong><br />W 2026 odbędzie się <strong>trzecia edycja</strong> hackathonu. Tym razem zapraszamy Was do <strong>Warszawy</strong>!",
+  "aboutHackathonText25": "<strong>EnsembleAI Hackathon</strong> to jedyne w swoim rodzaju wydarzenie, gdzie koła naukowe z całej Polski łączą swe siły, aby stworzyć dla Was coś wyjątkowego.<br />Jesteś doświadczonym pasjonatem i <strong>uczenie maszynowe</strong> to dla Ciebie chleb powszedni? A może dopiero rozpoczynasz swoją przygodę ze <strong>sztuczną inteligencją</strong>? Niezależnie od odpowiedzi, udział w hackathonie będzie dla Was okazją do <strong>dobrej zabawy</strong> i <strong>rozwoju umiejętności</strong>. Na zwycięzców czekają <strong>atrakcyjne nagrody!</strong><br />W 2025 odbędzie się <strong>druga edycja</strong> hackathonu. Tym razem zapraszamy Was do <strong>Krakowa</strong>!",
   "aboutHackathonText24": "<strong>EnsembleAI Hackathon</strong> to jedyne w swoim rodzaju wydarzenie, gdzie <strong>koła naukowe z całej Polski</strong> łączą swe siły, aby stworzyć dla Was coś <strong>wyjątkowego</strong>.<br />Jesteś doświadczonym pasjonatem i uczenie maszynowe to dla Ciebie chleb powszedni? A może dopiero rozpoczynasz swoją przygodę ze <strong>sztuczną inteligencją</strong>? Niezależnie od odpowiedzi, udział w hackathonie będzie dla Was okazją do <strong>dobrej zabawy</strong> i rozwinięcia swoich <strong>umiejętności</strong>. Na zwycięzców czekają <strong>atrakcyjne nagrody!</strong>",
 
   "reportFromTheEvent": "Tak było",
   "report2024": "Pierwsza edycja EnsembleAI Hackathon była punktem wyjścia do współpracy największych studenckich kół naukowych zajmujących się AI w Polsce, tworząc miejsce, w którym młode talenty mogą się rozwijać.<br />Podczas pierwszej edycji 120 studentów studiów licencjackich, inżynierskich, magisterskich i doktoranckich miało 24 godziny na rozwiązanie trzech zadań związanych z kradzieżą modeli uczenia maszynowego. W międzyczasie nawiązali cenne kontakty z ekspertami i partnerami wydarzenia.<br />Wszystko to miało miejsce na Politechnice Warszawskiej!",
-  "report2025": "Druga edycja EnsembleAI Hackathon była owocem współpracy największych studenckich kół naukowych zajmujących się AI w Polsce, tworząc miejsce, w którym młode talenty mogą się rozwijać.<br />Podczas drugiej edycji prawie 200 studentów studiów licencjackich, inżynierskich, magisterskich i doktoranckich miało 24 godziny na rozwiązanie trzech zadań związanych z kradzieżą modeli uczenia maszynowego. W międzyczasie nawiązali cenne kontakty z ekspertami i partnerami wydarzenia.<br />Wszystko to miało miejsce na Akademii Górniczo-Hutniczej w Krakowie!",
+  "report2025": "Druga edycja EnsembleAI Hackathon przyniosła niemal dwukrotny wzrost liczby uczestników względem pierwszej – w wydarzeniu wzięło udział około 200 osób. Po raz kolejny koła naukowe z całej Polski związane z tematyką sztucznej inteligencji połączyły siły, aby stworzyć to wyjątkowe przedsięwzięcie. Na miejscu na uczestników czekały zadania w dwóch kategoriach: CISPA oraz OctoSpace Challenge. Nie zabrakło również przestrzeni do networkingu i inspirujących rozmów ze specjalistami AI. Tym razem gospodarzem hackathonu była Akademia Górniczo-Hutnicza w Krakowie.",
   "gallery2024": "Zdjęcia 2024",
   "gallery2025": "Zdjęcia 2025",
 
@@ -55,5 +57,5 @@
   "mediaPartners": "Partnerzy medialni",
   "socialPartners": "Partnerzy społecznościowi",
 
-  "noRegulationsModalText": "Regulamin edycji 2025 już wkrótce"
+  "noRegulationsModalText": "Regulamin edycji 2026 już wkrótce"
 }

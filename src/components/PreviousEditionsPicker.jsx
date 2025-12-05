@@ -10,6 +10,11 @@ const PreviousEditionsPicker = ({ onClick }) => {
       <span className="dropdown-span">{t("previousEditions")}</span>
       <ul className="dropdown-content">
         <li>
+          <Link to="/2025" onClick={onClick}>
+            2025
+          </Link>
+        </li>
+        <li>
           <Link to="/2024" onClick={onClick}>
             2024
           </Link>

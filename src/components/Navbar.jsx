@@ -40,7 +40,7 @@ const NavBar = () => {
 
   const currentEditionNavLinks = [
     { id: 1, link: "#about", text: t("aboutProject") },
-    { id: 2, link: "#throwback", text: t("throwback") },
+    { id: 2, link: "#timeline", text: t("timeline") },
     { id: 3, link: "#partners", text: t("partners") },
     { id: 4, link: "#admins", text: t("admins") },
   ];
@@ -53,17 +53,13 @@ const NavBar = () => {
   ];
 
   const isGalleryPage = location.pathname.endsWith("/gallery");
-  const isCurrentEdition = location.pathname.startsWith("/2025");
+  const isCurrentEdition = location.pathname.startsWith("/2026");
 
   return (
     <div className="nav-bar">
       <div className="logo">
         <Link to="/" onClick={scrollToTop}>
-          <img
-            id="logo"
-            src="images/logos_25/LOGO_ROK_svg_biale.svg"
-            alt="logo"
-          />
+          <img id="logo" src="images/logos_26/LOGO_ROK_białe.svg" alt="logo" />
         </Link>
       </div>
       <div className="menu-wrapper">
@@ -84,14 +80,14 @@ const NavBar = () => {
                 </li>
               ))}
               <li className="nav-item">
-                <a
+                {/* <a
                   href="documents/regulamin.pdf"
                   target="_blank"
                   rel="noopener noreferrer"
                 >
                   {t("regulations")}
-                </a>
-                {/* <a onClick={openModal}>{t("regulations")}</a> */}
+                </a> */}
+                <a onClick={openModal}>{t("regulations")}</a>
               </li>
               <PreviousEditionsPicker />
             </>

@@ -5,7 +5,7 @@ const Redirect = () => {
   const navigate = useNavigate();
 
   useEffect(() => {
-    navigate("/2025");
+    navigate("/2026");
   }, [navigate]);
 
   return null;
