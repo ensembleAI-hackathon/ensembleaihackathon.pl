@@ -141,6 +141,13 @@ const carouselData = [
     kolo: "BIT",
     linkedin: "https://www.linkedin.com/in/wojciechjasinski/",
   },
+  {
+    image: "images/people/jan_slosarczyk.jpg",
+    name: "Jan Ślosarczyk",
+    team: "infra team",
+    kolo: "BIT",
+    linkedin: "https://www.linkedin.com/in/jan-ślosarczyk-709481257/",
+  },
   //sponsors & finance team
   {
     image: "images/people/karol_rogozinski.jpg",
