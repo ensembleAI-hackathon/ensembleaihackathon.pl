@@ -17,11 +17,15 @@
 
 html {
   scroll-behavior: smooth;
+  overflow-x: hidden;
+  width: 100%;
 }
 
 body {
   display: flex;
   flex-direction: column;
+  overflow-x: hidden;
+  width: 100%;
 }
 
 hr {
@@ -55,7 +59,7 @@ main {
 
 #main #img {
   position: relative;
-  width: 40%;
+  width: 30%;
 }
 
 #main img {

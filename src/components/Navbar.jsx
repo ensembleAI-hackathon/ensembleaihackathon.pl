@@ -79,14 +79,14 @@ const NavBar = () => {
                 </li>
               ))}
               <li className="nav-item">
-                {/* <a
-                  href="documents/regulamin.pdf"
+                <a
+                  href="documents/regulamin_2026.pdf"
                   target="_blank"
                   rel="noopener noreferrer"
                 >
                   {t("regulations")}
-                </a> */}
-                <a onClick={openModal}>{t("regulations")}</a>
+                </a>
+                {/* <a onClick={openModal}>{t("regulations")}</a> */}
               </li>
               <PreviousEditionsPicker />
             </>
@@ -129,9 +129,9 @@ const NavBar = () => {
                     </Link>
                   </li>
                 ))}
-                {/* <li className="mobile-nav-item">
-                  <a href="documents/regulamin.pdf">{t("regulations")}</a>
-                </li> */}
+                <li className="mobile-nav-item">
+                  <a href="documents/regulamin_2026.pdf">{t("regulations")}</a>
+                </li>
                 <PreviousEditionsPicker onClick={() => setNav(!nav)} />
               </>
             ) : (

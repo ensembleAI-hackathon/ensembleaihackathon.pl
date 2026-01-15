@@ -1,5 +1,7 @@
 import { useEffect } from "react";
 import { Routes, Route, useLocation } from "react-router-dom";
+import AOS from "aos";
+import "aos/dist/aos.css";
 import "./styles/styleBcg.css";
 import "./styles/style.css";
 import "./styles/navbar.css";
@@ -23,6 +25,10 @@ import NavBar from "./components/Navbar";
 const App = () => {
   const location = useLocation();
   useEffect(() => {
+    AOS.init({
+      duration: 1000,
+      once: true,
+    });
     // Firefly effect
     let bcg = document.getElementById("bcg");
     let quantity = 15;
@@ -46,6 +52,7 @@ const App = () => {
 
   useEffect(() => {
     window.scrollTo({ top: 0, behavior: "smooth" });
+    AOS.refresh();
   }, [location.pathname]);
 
   return (
