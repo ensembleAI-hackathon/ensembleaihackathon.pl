@@ -36,7 +36,7 @@ const SectionAbout = () => {
     { question: `${t("when")}`, answers: [`${t("exactHackathonDate")}`] },
     {
       question: `${t("where")}`,
-      answers: [`${t("inWarsaw")}`],
+      answers: [`${t("pw")}`],
     },
     { question: `${t("team")}`, answers: [`${t("threeToFivePeople")}`] },
   ];
