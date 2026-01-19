@@ -148,6 +148,13 @@ const carouselData = [
     kolo: "BIT",
     linkedin: "https://www.linkedin.com/in/jan-ślosarczyk-709481257/",
   },
+    {
+    image: "images/people/fabian_bicca.jpg",
+    name: "Fabian Bicca",
+    team: "infra team",
+    kolo: "BIT",
+    linkedin: "https://www.linkedin.com/in/fabian-bicca-59248b21b/",
+  },
   //sponsors & finance team
   {
     image: "images/people/karol_rogozinski.jpg",
@@ -157,25 +164,11 @@ const carouselData = [
     linkedin: "https://www.linkedin.com/in/karol-rogozi%C5%84ski-41a60b234/",
   },
   {
-    image: "images/people/jan_fidor.jpg",
-    name: "Janek Fidor",
-    team: "sponsors & finance team",
-    kolo: "Golem",
-    linkedin: "https://www.linkedin.com/in/jan-fidor-b05521228/",
-  },
-  {
     image: "images/people/ola_jamroz.jpg",
     name: "Ola Jamróz",
     team: "sponsors & finance team",
     kolo: "Golem",
     linkedin: "https://www.linkedin.com/in/aleksandra-jamr%C3%B3z-064042228/",
-  },
-  {
-    image: "images/people/barbara_gawlik.jpg",
-    name: "Barbara Gawlik",
-    team: "sponsors & finance team",
-    kolo: "KNDS",
-    linkedin: "https://www.linkedin.com/in/b-gawlik/",
   },
   {
     image: "images/people/igor_kolodziej.jpg",
@@ -227,13 +220,6 @@ const carouselData = [
     kolo: "KNDS",
     linkedin: "",
   },
-  // {
-  //   image: "images/people/mateusz_winiarek.jpg",
-  //   name: "Mateusz Winiarek",
-  //   team: "promo team",
-  //   kolo: "KNUM",
-  //   linkedin: "",
-  // },
   //special ops
   {
     image: "images/people/adam_staniszewski.jpg",
@@ -257,14 +243,6 @@ const carouselData = [
     linkedin:
       "https://www.linkedin.com/in/mateusz-ga%C5%82%C4%99ziewski-452191247/",
   },
-  // {
-  //   image: "images/people/michal_glinka.jpg",
-  //   name: "Michał Glinka",
-  //   team: "special ops team",
-  //   kolo: "KNDS",
-  //   linkedin:
-  //     "",
-  // },
   {
     image: "images/people/aleksandra_kukulka.jpg",
     name: "Aleksandra Kukułka",
@@ -279,13 +257,6 @@ const carouselData = [
     kolo: "KNDS",
     linkedin: "https://www.linkedin.com/in/piotr-cywoniuk-61919b309",
   },
-  {
-    image: "images/people/paulina_kubera.jpg",
-    name: "Paulina Kubera",
-    team: "special ops team",
-    kolo: "KNDS",
-    linkedin: "https://www.linkedin.com/in/pkubera",
-  },
   //photographer
   {
     image: "images/people/kuba_psarski.jpg",
@@ -294,50 +265,6 @@ const carouselData = [
     kolo: "",
     linkedin: "https://www.linkedin.com/in/jakub-psarski/",
   },
-  //cispa ?
-  // {
-  //   image: "images/people/adam_dziedzic.jpg",
-  //   name: "Adam Dziedzic",
-  //   team: "CISPA team",
-  //   kolo: "Professor @ SprintML Lab, CISPA",
-  //   linkedin: "https://www.linkedin.com/in/adziedzic/",
-  // },
-  // {
-  //   image: "images/people/franziska_boenisch.jpg",
-  //   name: "Franziska Boenisch",
-  //   team: "CISPA team",
-  //   kolo: "Professor @ SprintML Lab, CISPA",
-  //   linkedin: "https://www.linkedin.com/in/fraboeni/",
-  // },
-  // {
-  //   image: "images/people/antoni_kowalczuk.jpg",
-  //   name: "Antoni Kowalczuk",
-  //   team: "CISPA team",
-  //   kolo: "PhD student @ SprintML Lab, CISPA",
-  //   linkedin: "https://www.linkedin.com/in/antoni-kowalczuk-j3p/",
-  // },
-  // {
-  //   image: "images/people/jan_dubinski.jpg",
-  //   name: "Jan Dubiński",
-  //   team: "CISPA team",
-  //   kolo: "PhD student @ WUT",
-  //   linkedin: "https://www.linkedin.com/in/jan-dubinski/",
-  // },
-  // {
-  //   image: "images/people/stanislaw_pawlak.jpg",
-  //   name: "Stanisław Pawlak",
-  //   team: "CISPA team",
-  //   kolo: "PhD student @ WUT",
-  //   linkedin: "https://www.linkedin.com/in/stanis%C5%82aw-pawlak-4571a61b7/",
-  // },
-  // other
-  // {
-  //   image: "images/people/wojciech_lapacz.jpg",
-  //   name: "Wojciech Łapacz",
-  //   team: "sponsors & finance team",
-  //   kolo: "Golem",
-  //   linkedin: "https://www.linkedin.com/in/wlapacz/",
-  // },
 ];
 
 const settings = {
