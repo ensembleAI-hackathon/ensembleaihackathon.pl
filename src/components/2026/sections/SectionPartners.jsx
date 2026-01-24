@@ -133,6 +133,18 @@ const SectionSocialPatrons = () => {
         <a
           className="medium_img"
           target="_blank"
+          href="https://www.facebook.com/ailabagh/"
+        >
+          <img
+            className="rounded_corners"
+            src="images/logos_medialni/ai_lab_logo.png"
+            alt=""
+          />
+        </a>
+        <div className="short_img"></div>
+        <a
+          className="medium_img"
+          target="_blank"
           href="https://www.facebook.com/profile.php?id=100093587573194"
         >
           <img
@@ -153,73 +165,12 @@ const SectionSocialPatrons = () => {
         <a
           className="medium_img"
           target="_blank"
-          href="https://www.facebook.com/wrsminipw"
-        >
-          <img src="images/logos_medialni/wrs_mini.png" alt="" />
-        </a>
-        <div className="short_img"></div>
-        <a
-          className="medium_img"
-          target="_blank"
-          href="https://www.facebook.com/SKNAIMETH/"
-        >
-          <img
-            className="rounded_corners"
-            src="images/logos_medialni/ai-meth_skn.png"
-            alt=""
-          />
-        </a>
-      </div>
-      <div className="logo_mini">
-        <a
-          className="medium_img"
-          target="_blank"
-          href="https://www.facebook.com/smartcitypw"
-        >
-          <img
-            className="rounded_corners"
-            src="images/logos_medialni/Smart_city_white_on_color.png"
-            alt=""
-          />
-        </a>
-        <div className="short_img"></div>
-        <a
-          className="medium_img"
-          target="_blank"
-          href="https://www.facebook.com/knm.uam/"
-        >
-          <img
-            className="rounded_corners"
-            src="images/logos_medialni/knm_uam.jpg"
-            alt=""
-          />
-        </a>
-        <div className="short_img"></div>
-        <a className="medium_img" target="_blank" href="https://skni.umcs.pl/">
-          <img src="images/logos_medialni/skni-logo_white.svg" alt="" />
-        </a>
-        <div className="short_img"></div>
-        <a
-          className="medium_img"
-          target="_blank"
-          href="https://www.facebook.com/skni.kod/"
-        >
-          <img src="images/logos_medialni/kod_logo_color.png" alt="" />
-        </a>
-      </div>
-      <div className="logo_mini">
-        <a className="medium_img" target="_blank" href="https://hacknarok.pl/">
-          <img src="images/logos_medialni/hacknarok.png" alt="" />
-        </a>
-        <div className="short_img"></div>
-        <a
-          className="medium_img"
-          target="_blank"
           href="https://www.facebook.com/GradientPG/"
         >
           <img src="images/logos_medialni/gradient_kolo_naukowe.jpg" alt="" />
         </a>
-        <div className="short_img"></div>
+      </div>
+      <div className="logo_mini">
         <a
           className="short_img"
           target="_blank"
@@ -229,97 +180,31 @@ const SectionSocialPatrons = () => {
         </a>
         <div className="short_img"></div>
         <a
+          className="long_img"
+          target="_blank"
+          href="https://www.informatyka.agh.edu.pl/pl/"
+        >
+          <img src="images/logos_medialni/wi_agh.png" alt="" />
+        </a>
+        <div className="short_img"></div>
+        <a
           className="medium_img"
           target="_blank"
-          href="https://www.facebook.com/SKNDataScienceSGH/"
+          href="https://www.facebook.com/KNIKernel"
         >
-          <img src="images/logos_medialni/knds_sgh.png" alt="" />
+          <img
+            className="rounded_corners"
+            src="images/logos_medialni/kn_kernel.jpg"
+            alt=""
+          />
         </a>
-      </div>
-      <div className="logo_mini">
+        <div className="short_img"></div>
         <a
           className="medium_img"
           target="_blank"
           href="https://www.facebook.com/RAIswps"
         >
           <img src="images/logos_medialni/KN_rai.png" alt="" />
-        </a>
-        <div className="short_img"></div>
-        <a
-          className="medium_img"
-          target="_blank"
-          href="https://www.linkedin.com/company/polish-ml-community/"
-        >
-          <img
-            className="rounded_corners"
-            src="images/logos_medialni/pl_ml_community.jpg"
-            alt=""
-          />
-        </a>
-        <div className="short_img"></div>
-        <a
-          className="medium_img"
-          target="_blank"
-          href="https://www.facebook.com/knimini/"
-        >
-          <img
-            className="rounded_corners"
-            src="images/logos_medialni/kni_mini.png"
-            alt=""
-          />
-        </a>
-        <div className="short_img"></div>
-        <a
-          className="medium_img"
-          target="_blank"
-          href="https://www.linkedin.com/company/knsolvro/"
-        >
-          <img
-            className="rounded_corners"
-            src="images/logos_medialni/kn_solvro.png"
-            alt=""
-          />
-        </a>
-      </div>
-      <div className="logo_mini">
-        <a
-          className="long_img"
-          target="_blank"
-          href="https://www.facebook.com/weitipw/"
-        >
-          <img src="images/logos_medialni/WEiTI_PW.png" alt="" />
-        </a>
-        <div className="short_img"></div>
-        <a
-          className="medium_img"
-          target="_blank"
-          href="https://www.facebook.com/knimini/"
-        >
-          <img src="images/logos_medialni/wrs_wii.png" alt="" />
-        </a>
-        <div className="short_img"></div>
-        <a
-          className="short_img"
-          target="_blank"
-          href="https://www.facebook.com/WRSSWIET"
-        >
-          <img
-            className="rounded_corners"
-            src="images/logos_medialni/wrs_wieit_agh.jpg"
-            alt=""
-          />
-        </a>
-        <div className="short_img"></div>
-        <a
-          className="medium_img"
-          target="_blank"
-          href="https://www.facebook.com/ailabagh/"
-        >
-          <img
-            className="rounded_corners"
-            src="images/logos_medialni/ai_lab_logo.png"
-            alt=""
-          />
         </a>
       </div>
       <div className="logo_mini">
@@ -332,6 +217,18 @@ const SectionSocialPatrons = () => {
           <img
             className="rounded_corners"
             src="images/logos_medialni/kn-somsiad.svg"
+            alt=""
+          />
+        </a>
+        <div className="short_img"></div>
+        <a
+          className="medium_img"
+          target="_blank"
+          href="https://www.facebook.com/SKNDataScience/"
+        >
+          <img
+            className="rounded_corners"
+            src="images/logos_medialni/DATA_SCIENCE_SLASK.png"
             alt=""
           />
         </a>
@@ -382,14 +279,13 @@ const SectionPartnersTBA = () => {
 const SectionPartners = () => {
   return (
     <>
-      <SectionPartnersTBA />
-      {/* NIE USUWAC TEGO KOMENTARZA BO TRZEBA BEDZIE PO COMMITACH SZUKAC KODU */}
+      {/* <SectionPartnersTBA /> */}
       {/* <SectionPartnerMain />
       <SectionPartnerMerit />
       <SectionStrategicPartner />
       <SectionSponsor />
-      <SectionMediaPatron />
-      <SectionSocialPatrons /> */}
+      <SectionMediaPatron /> */}
+      <SectionSocialPatrons />
     </>
   );
 };
