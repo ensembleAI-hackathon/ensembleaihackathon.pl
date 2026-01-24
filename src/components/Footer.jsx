@@ -12,7 +12,7 @@ const Footer = () => {
       <div id="footer-content">
         <div className="social-icons social-icons-shorter">
           <a
-            href="https://discord.gg/wREck5C6qW"
+            href="https://discord.gg/puJwcCUj5W"
             target="_blank"
             title={t("joinDiscord")}
           >
@@ -45,7 +45,7 @@ const Footer = () => {
         </div>
         <div className="social-icons social-icons-longer">
           <a
-            href="https://discord.gg/wREck5C6qW"
+            href="https://discord.gg/puJwcCUj5W"
             target="_blank"
             title={t("joinDiscord")}
           >

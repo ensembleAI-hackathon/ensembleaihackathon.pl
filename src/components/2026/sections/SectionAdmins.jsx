@@ -214,8 +214,8 @@ const carouselData = [
     linkedin: "https://www.linkedin.com/in/dominik-gawe%C5%82/",
   },
   {
-    image: "images/people/jakub_halaczkiewicz.jpg",
-    name: "Jakub Hałaczkiewicz",
+    image: "images/people/kuba_halaczkiewicz.jpg",
+    name: "Kuba Hałaczkiewicz",
     team: "promo team",
     kolo: "KNDS",
     linkedin: "",
@@ -229,7 +229,7 @@ const carouselData = [
     linkedin: "https://www.linkedin.com/in/adam-staniszewski-4b0154288/",
   },
   {
-    image: "images/people/kamil_szczawinki.jpg",
+    image: "images/people/kamil_szczawinski.jpg",
     name: "Kamil Szczawiński",
     team: "special ops team",
     kolo: "Golem",
