@@ -184,6 +184,13 @@ const carouselData = [
     kolo: "BIT",
     linkedin: "https://www.linkedin.com/in/naumiec/",
   },
+  {
+    image: "images/people/barbara_gawlik.jpg",
+    name: "Barbara Gawlik",
+    team: "sponsors & finance team",
+    kolo: "KNDS",
+    linkedin: "https://www.linkedin.com/in/b-gawlik/",
+  },
   //promo team
   {
     image: "images/people/ola_smela.jpg",
@@ -211,7 +218,7 @@ const carouselData = [
     name: "Dominik Gaweł",
     team: "promo team",
     kolo: "KNUM",
-    linkedin: "https://www.linkedin.com/in/dominik-gawe%C5%82/",
+    linkedin: "https://www.linkedin.com/in/dominik--gawel/",
   },
   {
     image: "images/people/kuba_halaczkiewicz.jpg",
