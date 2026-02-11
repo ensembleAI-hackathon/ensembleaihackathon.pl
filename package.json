@@ -14,7 +14,7 @@
   "homepage": "https://ensembleAI-hackathon.github.io/ensembleaihackathon.pl/",
   "name": "ensembleaihackathon.pl",
   "private": false,
-  "version": "2.2",
+  "version": "2.3",
   "type": "module",
   "scripts": {
     "predeploy": "npm run build",

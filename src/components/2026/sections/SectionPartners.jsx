@@ -208,7 +208,6 @@ const SectionSocialPatrons = () => {
         </a>
       </div>
       <div className="logo_mini">
-        <div className="short_img"></div>
         <a
           className="long_img"
           target="_blank"
@@ -229,6 +228,56 @@ const SectionSocialPatrons = () => {
           <img
             className="rounded_corners"
             src="images/logos_medialni/DATA_SCIENCE_SLASK.png"
+            alt=""
+          />
+        </a>
+        <div className="short_img"></div>
+        <a
+          className="medium_img"
+          target="_blank"
+          href="https://www.facebook.com/SKNDataScienceSGH/"
+        >
+          <img
+            className="rounded_corners"
+            src="images/logos_medialni/skn_data_science.jpg"
+            alt=""
+          />
+        </a>
+        <div className="short_img"></div>
+        <a
+          className="long_img"
+          target="_blank"
+          href="https://www.facebook.com/wrseitipw/"
+        >
+          <img
+            className="rounded_corners"
+            src="images/logos_medialni/WRS_EiTI.png"
+            alt=""
+          />
+        </a>
+      </div>
+      <div className="logo_mini">
+        <div className="short_img"></div>
+        <a
+          className="long_img"
+          target="_blank"
+          href="https://www.facebook.com/rknpw/"
+        >
+          <img
+            className="rounded_corners"
+            src="images/logos_medialni/PW_RKN_biale.svg"
+            alt=""
+          />
+        </a>
+        <div className="short_img"></div>
+        <a
+          className="medium_img"
+          target="_blank"
+          href="https://www.facebook.com/knm.uam/"
+        >
+          <img
+            className="rounded_corners"
+            src="images/logos_medialni/knm_uam.jpg"
             alt=""
           />
         </a>

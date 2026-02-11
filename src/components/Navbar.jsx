@@ -40,8 +40,9 @@ const NavBar = () => {
   const currentEditionNavLinks = [
     { id: 1, link: "#about", text: t("aboutProject") },
     { id: 2, link: "#timeline", text: t("timeline") },
-    { id: 3, link: "#partners", text: t("partners") },
-    { id: 4, link: "#admins", text: t("admins") },
+    { id: 3, link: "#faq", text: t("faq") },
+    { id: 4, link: "#partners", text: t("partners") },
+    { id: 5, link: "#admins", text: t("admins") },
   ];
 
   const previousEditionNavLinks = [
