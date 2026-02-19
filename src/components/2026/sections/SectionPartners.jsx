@@ -257,7 +257,6 @@ const SectionSocialPatrons = () => {
         </a>
       </div>
       <div className="logo_mini">
-        <div className="short_img"></div>
         <a
           className="long_img"
           target="_blank"
@@ -278,6 +277,57 @@ const SectionSocialPatrons = () => {
           <img
             className="rounded_corners"
             src="images/logos_medialni/knm_uam.jpg"
+            alt=""
+          />
+        </a>
+        <div className="short_img"></div>
+        <a
+          className="medium_img"
+          target="_blank"
+          href="https://solvro.pwr.edu.pl/pl/"
+        >
+          <img
+            className="rounded_corners"
+            src="images/logos_medialni/solvro.png"
+            alt=""
+          />
+        </a>
+        <div className="short_img"></div>
+        <a
+          className="medium_img"
+          target="_blank"
+          href="https://www.facebook.com/wrss.wi"
+        >
+          <img
+            className="rounded_corners"
+            src="images/logos_medialni/wrs_wii.png"
+            alt=""
+          />
+        </a>
+      </div>
+
+      <div className="logo_mini">
+        <div className="short_img"></div>
+        <a
+          className="medium_img"
+          target="_blank"
+          href="https://knneuron.pwr.edu.pl/pl"
+        >
+          <img
+            className="rounded_corners"
+            src="images/logos_medialni/kn_neuron.svg"
+            alt=""
+          />
+        </a>
+        <div className="short_img"></div>
+        <a
+          className="medium_img"
+          target="_blank"
+          href="https://credibleai.eu/"
+        >
+          <img
+            className="rounded_corners"
+            src="images/logos_medialni/centre_credible_ai_logo.jpg"
             alt=""
           />
         </a>
