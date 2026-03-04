@@ -103,17 +103,33 @@ const SectionSponsor = () => {
         <a
           className="long_img"
           target="_blank"
-          href="https://www.trumpf.com/pl_PL/"
+          href="https://www.facebook.com/pw.cinn/?locale=pl_PL"
         >
-          <img src="images/logos_partners/trumpf_medium.png" alt="" />
+          <img src="images/logos_partners/PW_Centrum Innowacji.png" alt="" />
+        </a>
+        <div className="short_img"></div>
+      </div>
+
+      <div className="logo_mini">
+        <div className="short_img"></div>
+        <a className="long_img" target="" href="https://jobs.allegro.eu/pl/e-xperience-2/">
+          <img src="images/logos_partners/allegro.jpg" alt="" />
         </a>
         <div className="short_img"></div>
         <a
-          className="short_img"
+          className="medium_img"
           target="_blank"
-          href="https://www.gresearch.com/"
+          href="https://pl.asseco.com/"
         >
-          <img src="images/logos_partners/g_research.png" alt="" />
+          <img src="images/logos_partners/asseco.jpg" alt="" />
+        </a>
+        <div className="short_img"></div>
+        <a
+          className="long_img"
+          target="_blank"
+          href="https://www.kogito-ventures.com/"
+        >
+          <img src="images/logos_partners/kognito.jpg" alt="" />
         </a>
         <div className="short_img"></div>
       </div>
@@ -379,11 +395,11 @@ const SectionPartners = () => {
   return (
     <>
       {/* <SectionPartnersTBA /> */}
-      {/* <SectionPartnerMain />
-      <SectionPartnerMerit />
-      <SectionStrategicPartner />
+      <SectionPartnerMain />
+      {/* <SectionPartnerMerit /> */}
+      {/* <SectionStrategicPartner /> */}
       <SectionSponsor />
-      <SectionMediaPatron /> */}
+      {/* <SectionMediaPatron /> */}
       <SectionSocialPatrons />
     </>
   );
