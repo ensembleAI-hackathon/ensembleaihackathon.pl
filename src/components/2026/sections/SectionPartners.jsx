@@ -34,22 +34,22 @@ const SectionPartnerMerit = () => {
   const { t } = useTranslation();
 
   return (
-    <div id="partners" className="logo_section">
-      {/* <div id="partners_merit" className="logo_section"> */}
+    <div id="partners_merit" className="logo_section">
       <h3>
         {t("meritPartners")} <strong>_</strong>
       </h3>
       <div className="logo_mini">
-        {/* <a className="long_img" target="_blank" href="https://cvlab.ii.pw.edu.pl/">
-          <img src="images/logos_partners/CVLab.png" alt="" />
-        </a> */}
         <div className="short_img"></div>
-        <a className="long_img" target="_blank" href="https://cispa.de/en">
-          <img src="images/logos_partners/cispa.svg" alt="" />
+        <a className="short_img" target="_blank" href="https://cmcr.cm-uj.krakow.pl/">
+          <img src="images/logos_partners/cmcr.png" alt="" />
         </a>
         <div className="short_img"></div>
-        <a className="long_img" target="_blank" href="https://sprintml.com/">
-          <img src="images/logos_partners/sprintML.svg" alt="" />
+        <a className="long_img" target="_blank" href="https://www.ii.pw.edu.pl/">
+          <img src="images/logos_partners/ii_pw_biale.png" alt="" />
+        </a>
+        <div className="short_img"></div>
+        <a className="long_img" target="_blank" href="https://www.eurosenergy.com/">
+          <img src="images/logos_partners/euros_energy.svg" alt="" />
         </a>
         <div className="short_img"></div>
       </div>
@@ -97,7 +97,7 @@ const SectionSponsor = () => {
       <div className="logo_mini">
         <div className="short_img"></div>
         <a className="medium_img" target="" href="https://www.aiclearing.com">
-          <img src="images/logos_partners/ai_clearing.png" alt="" />
+          <img className="rounded_corners" src="images/logos_partners/aic.png" alt="" />
         </a>
         <div className="short_img"></div>
         <a
@@ -105,7 +105,7 @@ const SectionSponsor = () => {
           target="_blank"
           href="https://www.facebook.com/pw.cinn/?locale=pl_PL"
         >
-          <img src="images/logos_partners/PW_Centrum Innowacji.png" alt="" />
+          <img className="rounded_corners" src="images/logos_partners/cinn.png" alt="" />
         </a>
         <div className="short_img"></div>
       </div>
@@ -113,7 +113,7 @@ const SectionSponsor = () => {
       <div className="logo_mini">
         <div className="short_img"></div>
         <a className="long_img" target="" href="https://jobs.allegro.eu/pl/e-xperience-2/">
-          <img src="images/logos_partners/allegro.jpg" alt="" />
+          <img className="rounded_corners" src="images/logos_partners/allegro.jpg" alt="" />
         </a>
         <div className="short_img"></div>
         <a
@@ -121,7 +121,7 @@ const SectionSponsor = () => {
           target="_blank"
           href="https://pl.asseco.com/"
         >
-          <img src="images/logos_partners/asseco.jpg" alt="" />
+          <img className="rounded_corners" src="images/logos_partners/asseco.jpg" alt="" />
         </a>
         <div className="short_img"></div>
         <a
@@ -129,7 +129,7 @@ const SectionSponsor = () => {
           target="_blank"
           href="https://www.kogito-ventures.com/"
         >
-          <img src="images/logos_partners/kognito.jpg" alt="" />
+          <img className="rounded_corners" src="images/logos_partners/kognito.jpg" alt="" />
         </a>
         <div className="short_img"></div>
       </div>
@@ -396,9 +396,9 @@ const SectionPartners = () => {
     <>
       {/* <SectionPartnersTBA /> */}
       <SectionPartnerMain />
-      {/* <SectionPartnerMerit /> */}
-      {/* <SectionStrategicPartner /> */}
       <SectionSponsor />
+      <SectionPartnerMerit />
+      {/* <SectionStrategicPartner /> */}
       {/* <SectionMediaPatron /> */}
       <SectionSocialPatrons />
     </>
