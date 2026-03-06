@@ -39,6 +39,9 @@ const SectionPartnerMerit = () => {
         {t("meritPartners")} <strong>_</strong>
       </h3>
       <div className="logo_mini">
+        <a className="short_img" target="_blank" href="https://mlcil.org/">
+          <img src="images/logos_partners/mlcil.png" alt="" />
+        </a>
         <div className="short_img"></div>
         <a className="short_img" target="_blank" href="https://cmcr.cm-uj.krakow.pl/">
           <img src="images/logos_partners/cmcr.png" alt="" />
@@ -51,7 +54,6 @@ const SectionPartnerMerit = () => {
         <a className="long_img" target="_blank" href="https://www.eurosenergy.com/">
           <img src="images/logos_partners/euros_energy.svg" alt="" />
         </a>
-        <div className="short_img"></div>
       </div>
     </div>
   );
@@ -66,13 +68,6 @@ const SectionStrategicPartner = () => {
         {t("strategicPartner")} <strong>_</strong>
       </h3>
       <div className="logo_mini">
-        <a
-          className="long_img"
-          target="_blank"
-          href="https://www.informatyka.agh.edu.pl/pl/"
-        >
-          <img src="images/logos_medialni/wi_agh.png" alt="" />
-        </a>
         <div className="short_img"></div>
         <a className="long_img" target="_blank" href="https://www.cyfronet.pl/">
           <img src="images/logos_medialni/cyfronet.png" alt="" />
@@ -81,6 +76,7 @@ const SectionStrategicPartner = () => {
         <a className="medium_img" target="_blank" href="https://www.plgrid.pl/">
           <img src="images/logos_medialni/PLGrid_1.png" alt="" />
         </a>
+          <div className="short_img"></div>
       </div>
     </div>
   );
@@ -398,7 +394,7 @@ const SectionPartners = () => {
       <SectionPartnerMain />
       <SectionSponsor />
       <SectionPartnerMerit />
-      {/* <SectionStrategicPartner /> */}
+      <SectionStrategicPartner />
       {/* <SectionMediaPatron /> */}
       <SectionSocialPatrons />
     </>
