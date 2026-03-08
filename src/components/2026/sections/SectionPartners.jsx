@@ -46,7 +46,9 @@ const SectionPartnerMerit = () => {
         <a className="short_img" target="_blank" href="https://cmcr.cm-uj.krakow.pl/">
           <img src="images/logos_partners/cmcr.png" alt="" />
         </a>
-        <div className="short_img"></div>
+      </div>
+
+      <div className="logo_mini">
         <a className="long_img" target="_blank" href="https://www.ii.pw.edu.pl/">
           <img src="images/logos_partners/ii_pw_biale.png" alt="" />
         </a>
@@ -68,7 +70,6 @@ const SectionStrategicPartner = () => {
         {t("strategicPartner")} <strong>_</strong>
       </h3>
       <div className="logo_mini">
-        <div className="short_img"></div>
         <a className="long_img" target="_blank" href="https://www.cyfronet.pl/">
           <img src="images/logos_medialni/cyfronet.png" alt="" />
         </a>
@@ -76,7 +77,6 @@ const SectionStrategicPartner = () => {
         <a className="medium_img" target="_blank" href="https://www.plgrid.pl/">
           <img src="images/logos_medialni/PLGrid_1.png" alt="" />
         </a>
-          <div className="short_img"></div>
       </div>
     </div>
   );
@@ -91,7 +91,6 @@ const SectionSponsor = () => {
         {t("partners")} <strong>_</strong>
       </h3>
       <div className="logo_mini">
-        <div className="short_img"></div>
         <a className="medium_img" target="" href="https://www.aiclearing.com">
           <img className="rounded_corners" src="images/logos_partners/aic.png" alt="" />
         </a>
@@ -103,11 +102,9 @@ const SectionSponsor = () => {
         >
           <img className="rounded_corners" src="images/logos_partners/cinn.png" alt="" />
         </a>
-        <div className="short_img"></div>
       </div>
 
       <div className="logo_mini">
-        <div className="short_img"></div>
         <a className="long_img" target="" href="https://jobs.allegro.eu/pl/e-xperience-2/">
           <img className="rounded_corners" src="images/logos_partners/allegro.jpg" alt="" />
         </a>
@@ -127,7 +124,6 @@ const SectionSponsor = () => {
         >
           <img className="rounded_corners" src="images/logos_partners/kognito.jpg" alt="" />
         </a>
-        <div className="short_img"></div>
       </div>
     </div>
   );

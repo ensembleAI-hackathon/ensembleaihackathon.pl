@@ -171,20 +171,6 @@ const carouselData = [
     linkedin: "https://www.linkedin.com/in/aleksandra-jamr%C3%B3z-064042228/",
   },
   {
-    image: "images/people/igor_kolodziej.jpg",
-    name: "Igor Kołodziej",
-    team: "sponsors & finance team",
-    kolo: "KNDS",
-    linkedin: "https://www.linkedin.com/in/igorkolodziej/",
-  },
-  {
-    image: "images/people/adam_naumiec.jpg",
-    name: "Adam Naumiec",
-    team: "sponsors & finance team",
-    kolo: "BIT",
-    linkedin: "https://www.linkedin.com/in/naumiec/",
-  },
-  {
     image: "images/people/barbara_gawlik.jpg",
     name: "Barbara Gawlik",
     team: "sponsors & finance team",
@@ -228,13 +214,6 @@ const carouselData = [
     linkedin: "",
   },
   //special ops
-  {
-    image: "images/people/adam_staniszewski.jpg",
-    name: "Adam Staniszewski",
-    team: "special ops team",
-    kolo: "BIT",
-    linkedin: "https://www.linkedin.com/in/adam-staniszewski-4b0154288/",
-  },
   {
     image: "images/people/kamil_szczawinski.jpg",
     name: "Kamil Szczawiński",
