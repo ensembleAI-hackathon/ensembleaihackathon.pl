@@ -98,3 +98,116 @@
     margin: 0px 20px 20px 20px;
   }
 }
+
+/* Schedule */
+.schedule-section {
+  width: 70%;
+  max-width: 70%;
+  margin: 80px auto 80px auto;
+  font-family: Jost;
+  color: white;
+}
+
+.schedule-days {
+  display: flex;
+  flex-direction: column;
+  gap: 3.5rem;
+}
+
+.schedule-day {
+  flex: 1;
+  border-left: 3px solid rgb(232, 46, 137);
+  padding-left: 1.5rem;
+}
+
+.schedule-day-header {
+  display: flex;
+  align-items: baseline;
+  gap: 0.75rem;
+  margin-bottom: 1.25rem;
+}
+
+.schedule-day-header h3 {
+  color: rgb(232, 46, 137);
+  font-size: 1.3rem;
+  font-weight: 400;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  margin: 0;
+}
+
+.schedule-date {
+  font-size: 0.8rem;
+  color: rgba(255, 255, 255, 0.45);
+  letter-spacing: 0.05em;
+}
+
+.schedule-items {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.schedule-item {
+  display: flex;
+  align-items: flex-start;
+  gap: 1rem;
+  padding: 0.55rem 0;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.07);
+}
+
+.schedule-item:last-child {
+  border-bottom: none;
+}
+
+.schedule-time {
+  color: rgb(232, 46, 137);
+  font-weight: 400;
+  min-width: 3.5rem;
+  font-size: 0.88rem;
+  letter-spacing: 0.03em;
+  padding-top: 0.1rem;
+}
+
+.schedule-label {
+  font-weight: 300;
+  color: white;
+  font-size: 0.92rem;
+  letter-spacing: 0.02em;
+}
+
+.schedule-label sup {
+  color: rgb(232, 46, 137);
+}
+
+.schedule-label-wrap {
+  display: flex;
+  flex-direction: column;
+  gap: 0.2rem;
+}
+
+.schedule-desc {
+  font-size: 0.78rem;
+  color: rgba(255, 255, 255, 0.55);
+  font-style: italic;
+  line-height: 1.4;
+}
+
+.schedule-footnote {
+  margin-top: 1.75rem;
+  font-size: 0.78rem;
+  color: rgba(255, 255, 255, 0.45);
+  font-style: italic;
+  font-family: Jost;
+}
+
+@media screen and (min-width: 768px) {
+  .schedule-days {
+    flex-direction: row;
+    gap: 0;
+  }
+
+  .schedule-days {
+    gap: 5rem;
+  }
+}
