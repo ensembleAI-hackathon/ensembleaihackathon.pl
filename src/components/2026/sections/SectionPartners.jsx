@@ -354,16 +354,8 @@ const SectionMediaPatron = () => {
       </h3>
       <div className="logo_mini">
         <div className="short_img"></div>
-        <a className="long_img" target="_blank" href="https://www.ksaf.pl/">
-          <img src="images/logos_medialni/ksaf.png" alt="" />
-        </a>
-        <div className="short_img"></div>
-        <a
-          className="long_img"
-          target="_blank"
-          href="https://www.mine.agh.edu.pl/"
-        >
-          <img src="images/logos_medialni/mine.png" alt="" />
+        <a className="long_img" target="_blank" href="https://www.facebook.com/KlubFocus/">
+          <img src="images/logos_medialni/focus.png" alt="" />
         </a>
         <div className="short_img"></div>
       </div>
@@ -391,7 +383,7 @@ const SectionPartners = () => {
       <SectionSponsor />
       <SectionPartnerMerit />
       <SectionStrategicPartner />
-      {/* <SectionMediaPatron /> */}
+      <SectionMediaPatron />
       <SectionSocialPatrons />
     </>
   );
